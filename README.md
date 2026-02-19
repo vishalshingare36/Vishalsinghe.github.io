@@ -1,4 +1,4 @@
-# Hi, I'm Vishal Singh 👋
+# Hi, I'm Vishal Shingare 👋
 
 🎯 Aspiring Data Analyst & AI Enthusiast  
 📊 Passionate about transforming data into actionable insights  
