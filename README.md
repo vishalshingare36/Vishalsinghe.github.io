@@ -1,73 +1,89 @@
-# Vishal shingare
-### 📊 Aspiring Data Analyst | Python • SQL • Excel • Power BI
+# Hi, I'm Vishal Singh 👋
+
+🎯 Aspiring Data Analyst & AI Enthusiast  
+📊 Passionate about transforming data into actionable insights  
+💡 Strong foundation in Programming, DSA, and Machine Learning  
 
 ---
 
-## 👋 About Me
+## 🚀 About Me
 
-I am an aspiring Data Analyst passionate about transforming raw data into meaningful insights.  
-Currently building real-world projects using Python, SQL, and data visualization tools.
+I am an aspiring Data Analyst with a strong programming foundation in Python and Java. 
+I enjoy solving analytical problems, building data-driven solutions, and continuously improving my technical skills.
 
-I believe in learning by doing and continuously improving my analytical skills.
+I have hands-on experience working with data using Python, SQL, and visualization tools to extract insights and support decision-making. Currently, I am expanding my expertise in Machine Learning and Deep Learning to build intelligent systems.
+
+I believe in practical learning through real-world projects and problem-solving.
 
 ---
-## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+## 🛠 Technical Skills
+
+### 💻 Programming
 - Python
 - Java
 
-### 📊 Data Analysis
+### 🧠 Core Computer Science
+- Data Structures & Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+- Problem Solving
+
+### 📊 Data Analysis & Visualization
 - SQL
-- Excel
+- Excel (Pivot Tables, VLOOKUP, Power Query)
 - Power BI
 - Pandas
 - NumPy
 - Matplotlib
 
-### 🧠 Core Concepts
-- Data Structures & Algorithms (DSA)
-- Object-Oriented Programming (OOPs)
-- Problem Solving
-
 ### 🤖 Machine Learning
 - Supervised & Unsupervised Learning
 - Regression & Classification
+- Model Evaluation Techniques
+- Scikit-Learn (Beginner)
 
-### 🔧 Tools
+### 🧠 Deep Learning (Learning Phase)
+- Neural Network Basics
+- TensorFlow / Keras (Beginner)
+
+### 🔧 Tools & Platforms
 - Git & GitHub
 - Jupyter Notebook
-
+- VS Code
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
-### 🔹 Sales Data Analysis
-- Cleaned and analyzed sales dataset using Python
-- Created visual dashboards to identify trends
-- Extracted business insights to improve performance
+🔹 Sales Data Analysis Project  
+- Cleaned and analyzed business dataset using Python  
+- Built dashboards to identify trends and KPIs  
+- Generated actionable insights  
 
-### 🔹 SQL Customer Analysis
-- Wrote complex SQL queries
-- Used JOIN, GROUP BY, Window Functions
-- Generated customer segmentation reports
+🔹 SQL Customer Segmentation  
+- Used JOIN, GROUP BY, and Window Functions  
+- Built reports for business insights  
+
+🔹 Machine Learning Mini Project  
+- Built classification model  
+- Evaluated model accuracy and performance  
 
 (More projects coming soon 🚀)
 
 ---
 
-## 📈 Currently Learning
+## 📈 Currently Improving
 
-- Advanced SQL
-- Data Visualization Best Practices
-- Machine Learning Basics
+- Advanced SQL Queries  
+- Advanced DSA Problem Solving  
+- Real-world ML Model Deployment  
+- Deep Learning Architectures  
 
 ---
 
 ## 🎯 Career Objective
 
-To secure a Data Analyst role where I can apply analytical skills to solve real business problems and contribute to data-driven decision making.
+To secure a Data Analyst or entry-level AI/ML role where I can apply analytical thinking, programming skills, and machine learning knowledge to solve real business challenges.
 
 ---
 
@@ -78,4 +94,4 @@ To secure a Data Analyst role where I can apply analytical skills to solve real 
 
 ---
 
-⭐ Turning Data into Decisions.
+⭐ Turning Data into Decisions | Building Skills Every Day
