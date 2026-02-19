@@ -1,4 +1,4 @@
-# Vishal Singh  
+# Vishal shingare
 ### 📊 Aspiring Data Analyst | Python • SQL • Excel • Power BI
 
 ---
@@ -11,22 +11,33 @@ Currently building real-world projects using Python, SQL, and data visualization
 I believe in learning by doing and continuously improving my analytical skills.
 
 ---
-
 ## 🛠️ Technical Skills
 
-**Programming & Querying**
+### 💻 Programming Languages
 - Python
-- SQL
+- Java
 
-**Data Analysis Libraries**
+### 📊 Data Analysis
+- SQL
+- Excel
+- Power BI
 - Pandas
 - NumPy
 - Matplotlib
 
-**Data Tools**
-- Excel (Pivot Tables, VLOOKUP, Power Query)
-- Power BI
+### 🧠 Core Concepts
+- Data Structures & Algorithms (DSA)
+- Object-Oriented Programming (OOPs)
+- Problem Solving
+
+### 🤖 Machine Learning
+- Supervised & Unsupervised Learning
+- Regression & Classification
+
+### 🔧 Tools
 - Git & GitHub
+- Jupyter Notebook
+
 
 ---
 
